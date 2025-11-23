@@ -57,4 +57,3 @@ INSERT INTO matches (team_a, team_b, match_date, venue, total_seats) VALUES
 ('Leeds United', 'Southampton', '2025-12-26', 'Elland Road', 37908),
 ('Leicester City', 'Wolverhampton Wanderers', '2025-12-28', 'King Power Stadium', 32312),
 ('Nottingham Forest', 'Brentford', '2025-12-30', 'City Ground', 30445);
-delete from tickets where id=3;
